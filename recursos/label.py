@@ -1,4 +1,3 @@
-#from tkinter import Button
 import customtkinter as ctk
 from recursos import colors
 
